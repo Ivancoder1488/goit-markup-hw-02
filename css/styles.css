@@ -8,22 +8,23 @@ body {
   font-style: normal;
 }
 
-.logo1-prtfl{
-    color:#4D5AE5;
-    font-family: "Raleway", 'sans-serif';
+.logo1-prtfl {
+  color: #4D5AE5;
+  font-family: "Raleway", sans-serif;
+  
     font-size: 18px;
     font-weight: 700;
     line-height: 1.1;
     text-transform: uppercase;
+
+.logo2-prtfl {
+    color: #2E2F42;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+  line-height: 1.1;
+  text-transform: uppercase;
 }
-.logo2-prtfl{
-color:#2E2F42;
-font-family: "Raleway", 'sans-serif';
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.1;
-    text-transform: uppercase;
-} 
 .link{
     cursor: pointer;
 }
