@@ -30,9 +30,9 @@ table {
 }
 
 body {
-  font-family: Roboto, sans-serif, Raleway;
+  font-family: "Roboto", sans-serif, Raleway;
   line-height: 1.5;
-  color: #2E2F42;
+  color: #434455;
   background-color: #ffffff;
   font-style: normal;
 }
