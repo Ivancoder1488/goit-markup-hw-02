@@ -10,7 +10,7 @@ body {
 
 .logo-1-prtfl{
     color:#4D5AE5;
-    font-family: Raleway;
+    font-family: Raleway, 'sans-serif';
     font-size: 18px;
     font-weight: 200;
     line-height: 1.1;
@@ -18,7 +18,7 @@ body {
 }
 .logo-2-prtfl{
 color:#2E2F42;
-font-family: Raleway;
+font-family: Raleway, 'sans-serif';
     font-size: 18px;
     font-weight: 200;
     line-height: 1.1;
