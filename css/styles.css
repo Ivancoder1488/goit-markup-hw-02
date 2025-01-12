@@ -52,7 +52,12 @@ body {
   letter-spacing: 0.02em;
   font-style: normal;
   color:#434455;
-  
+}
+.add-mail{
+color:#434455;
+}
+.add-tell{
+  color:#434455;
 }
 .section1{
     background-color: #2E2F42;
