@@ -1,33 +1,4 @@
 
-*{
-margin: 0;
-padding: 0;
-box-sizing: border-box;
-}
-
-
-ul, ol {
-  list-style: none;
-}
-
-
-a {
-  text-decoration: none;
-  color: inherit;
-}
-
-
-button {
-  background: none;
-  border: none;
-  cursor: pointer;
-}
-
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
 
 body {
   font-family: "Roboto", sans-serif;
@@ -37,11 +8,6 @@ body {
   font-style: normal;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
 .logo-1-prtfl{
     color:#4D5AE5;
     font-family: Raleway;
