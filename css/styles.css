@@ -85,6 +85,9 @@ color:#434455;
 .hero-button:hover{
     background-color: #404BBF;
 }
+.hero-button:focus{
+  background-color: #404BBF;
+}
 .li-feature-tittle{
     font-family: 'Roboto';
     font-weight: 500;
