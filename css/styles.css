@@ -59,19 +59,18 @@ color:#434455;
 .add-tell{
   color:#434455;
 }
-.section1{
+.section-one{
     background-color: #2E2F42;
     font-family: "Roboto",sans-serif;
-    line-height: 1.07;
     text-align: center;
-    letter-spacing: 0.02em;
 }
 .hero-tittle{
         color: #FFFFFF;
         font-size: 56px;
         font-weight: 700;
-        line-height: 1.1;
+        line-height: 1.07;;
         font-family:'Roboto';
+        letter-spacing: 0.02em;
 }
 .hero-button{
     color: #FFFFFF;
