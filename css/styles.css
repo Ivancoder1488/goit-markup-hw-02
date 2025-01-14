@@ -167,3 +167,9 @@ font-family: 'Roboto';
   text-transform: uppercase;
   color:#4d5ae5;
 }
+.logo-footer{
+  color:#F4F4FD;
+}
+.par-footer{
+  letter-spacing: 0.02em;
+}
