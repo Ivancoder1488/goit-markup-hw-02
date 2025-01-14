@@ -112,3 +112,27 @@ font-family: 'Roboto';
     line-height: 0.6;
     color: #2E2F42;
 }
+.section-three{
+  background-color: #F4F4FD
+}
+.title-team{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color:#2e2f42;
+}
+.item-team{
+  background-color: #FFFFFF;
+}
+.title-item-team{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color:#2e2f42;
+}
+.par-item-team{
+  letter-spacing: 0.02em;
+}
