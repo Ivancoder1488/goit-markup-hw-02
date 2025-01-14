@@ -61,6 +61,10 @@ color:#434455;
 }
 .section1{
     background-color: #2E2F42;
+    font-family: "Roboto",sans-serif;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em
 }
 .hero-tittle{
         color: #FFFFFF;
